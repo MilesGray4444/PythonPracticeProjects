@@ -1,4 +1,2 @@
 # PythonPracticeProjects
-Decoding bytes Encoding Strings (Debugging on Terminal)
-For future directions on how to use your potential script
-Directions on how to contribute to OS
+Made my first game using for/while loops and if statements. Pretty simple game yet needs to be refined for better user experience.
